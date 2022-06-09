@@ -12,7 +12,7 @@
 
 접속 QR코드 :  ![QR코드](https://user-images.githubusercontent.com/82189042/169563434-ac8ff768-f02d-48fe-b098-7207912a6d53.JPG)
 
-문항은 총 20문항
+문항은 총 20문항입니다.
 
 16명의 어벤져스 캐릭터
 1. 페퍼 포츠 (INTJ) 
